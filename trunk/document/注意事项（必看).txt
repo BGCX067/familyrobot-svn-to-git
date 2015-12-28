@@ -1,0 +1,4 @@
+注意事项：
+1.不要在本文件夹里打开文件。文件要拷贝到别处去打开、修改等。
+2.另一个智能家居项目的SVN：https://jxhomesystem.googlecode.com/svn/trunk/
+
